@@ -3,7 +3,7 @@
 
 # Pre-install Requirements
 The entire program is written in python3 programming languages.
-Python libraries like BeautifulSoup, pandas and requests should be pre-installed.
+Python libraries like BeautifulSoup, pandas, datetime and requests should be pre-installed.
 The main python file for the crawler is weathercrawl1.py
 
 # Description about the program 
